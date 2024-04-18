@@ -15,7 +15,7 @@ namespace CheckIn_Event
             //FormBorderStyle = FormBorderStyle.None;
 
             timer = new System.Windows.Forms.Timer();
-            timer.Interval = 4000;
+            timer.Interval = 3700;
             timer.Tick += new EventHandler(Timer_Tick);
             timer.Start();
 
@@ -39,7 +39,7 @@ namespace CheckIn_Event
 
                     ApiResponse apiResponse = JsonConvert.DeserializeObject<ApiResponse>(responseBody);
 
-                    string url = "https://api2.livespo.vn/v1/api/updateMedicalEvents/";
+                    string url = "https://api2.livespo.vn/v1/api/updateCustomerEcoparkRunner/";
 
                     string token = "YRMHetweG7VdddTEryR4OonddddSN7XYVC5uJjNeheX3jTiUs";
 
@@ -53,8 +53,8 @@ namespace CheckIn_Event
                                 player.Play();
                             }
 
-                            //string fullUrl = url + item.Id + '?' + "access_token=" + token;
-                            //await PostDataAsync(client, fullUrl);
+                            string fullUrl = url + item.Id + '?' + "access_token=" + token;
+                            await PostDataAsync(client, fullUrl);
                             return;
                         }
                     }
