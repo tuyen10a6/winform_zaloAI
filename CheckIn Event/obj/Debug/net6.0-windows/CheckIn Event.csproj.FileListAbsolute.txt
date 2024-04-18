@@ -1,0 +1,60 @@
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.exe
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.deps.json
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.runtimeconfig.json
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.pdb
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Asio.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Core.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Midi.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\System.Management.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.AssemblyReference.cache
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn_Event.Form1.resources
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn_Event.Properties.Resources.resources
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.GenerateResource.cache
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.AssemblyInfoInputs.cache
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.AssemblyInfo.cs
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.CoreCompileInputs.cache
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.CopyComplete
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\refint\CheckIn Event.dll
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.pdb
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.genruntimeconfig.cache
+E:\LiveSpo\CheckIn Event\CheckIn Event\obj\Debug\net6.0-windows\ref\CheckIn Event.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.exe
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.deps.json
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.runtimeconfig.json
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\CheckIn Event.pdb
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Asio.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Core.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Midi.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\System.Management.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.AssemblyReference.cache
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn_Event.Form1.resources
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn_Event.Properties.Resources.resources
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.GenerateResource.cache
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.AssemblyInfoInputs.cache
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.AssemblyInfo.cs
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.CoreCompileInputs.cache
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.csproj.CopyComplete
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\refint\CheckIn Event.dll
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.pdb
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\CheckIn Event.genruntimeconfig.cache
+E:\LiveSpo\RealTime Read ZALO AI DB\CheckIn Event\obj\Debug\net6.0-windows\ref\CheckIn Event.dll
